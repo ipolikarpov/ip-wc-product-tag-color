@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Выбор цвета тега продукта для WC\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-31 14:53+0000\n"
+"PO-Revision-Date: 2019-10-31 14:55+0000\n"
+"Last-Translator: admin <ivan@polikarpov.org>\n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.4"
+
+#: ip-wc-product-tag-color.php:75
+msgid "<strong>WC Tags Color</strong> is active now!"
+msgstr "<strong>Цвета тегов продуктов для WooCommerce</strong> теперь активны!"
+
+#: ip-wc-product-tag-color.php:63
+msgid ""
+"<strong>WC Tags Color</strong> requires WooCommerce to be installed and "
+"activated!"
+msgstr ""
+"<strong>Цвета тегов продуктов для WooCommerce</strong> требуют "
+"установленного и активированного плагина WooCommerce!"
+
+#: ip-wc-product-tag-color.php:102 ip-wc-product-tag-color.php:120
+msgid "Background color"
+msgstr "Цвет фона"
+
+#. Author URI of the plugin
+msgid "https://polikarpov.dev"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://polikarpov.dev/ip-wc-product-tag-color"
+msgstr ""
+
+#: ip-wc-product-tag-color.php:106 ip-wc-product-tag-color.php:128
+msgid "Text color"
+msgstr "Цвет текста"
+
+#. Name of the plugin
+msgid "Выбор цвета тега продукта для WC"
+msgstr ""
+
+#. Description of the plugin
+msgid "Добавляет возможность выбрать цвет тега продукта"
+msgstr ""
+
+#. Author of the plugin
+msgid "Иван Поликарпов"
+msgstr ""

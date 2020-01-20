@@ -1,0 +1,54 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Выбор цвета тега продукта для WC\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-31 14:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.4"
+
+#: ip-wc-product-tag-color.php:75
+msgid "<strong>WC Tags Color</strong> is active now!"
+msgstr ""
+
+#: ip-wc-product-tag-color.php:63
+msgid ""
+"<strong>WC Tags Color</strong> requires WooCommerce to be installed and "
+"activated!"
+msgstr ""
+
+#: ip-wc-product-tag-color.php:102 ip-wc-product-tag-color.php:120
+msgid "Background color"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://polikarpov.dev"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://polikarpov.dev/ip-wc-product-tag-color"
+msgstr ""
+
+#: ip-wc-product-tag-color.php:106 ip-wc-product-tag-color.php:128
+msgid "Text color"
+msgstr ""
+
+#. Name of the plugin
+msgid "Выбор цвета тега продукта для WC"
+msgstr ""
+
+#. Description of the plugin
+msgid "Добавляет возможность выбрать цвет тега продукта"
+msgstr ""
+
+#. Author of the plugin
+msgid "Иван Поликарпов"
+msgstr ""
